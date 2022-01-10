@@ -1,3 +1,5 @@
-Link para download do Git: https://git-scm.com/downloads
+[Link para download do Git:](https://git-scm.com/downloads)
 
-O Git permite que você revise como seu projeto cresce e facilmente olhe ou restaure estados de arquivo do passado. Uma vez conectado a uma rede, o Git permite que você envie seu projeto para o GitHub ou outras alternativas, como: Bitbucket, Beanstalk ou GitLab para compartilhar e colaborar com outros desenvolvedores.
+# Sobre o Git
+
+<p>O Git permite que você revise como seu projeto cresce e facilmente olhe ou restaure estados de arquivo do passado. Uma vez conectado a uma rede, o Git permite que você envie seu projeto para o GitHub ou outras alternativas, como: Bitbucket, Beanstalk ou GitLab para compartilhar e colaborar com outros desenvolvedores.</p>
