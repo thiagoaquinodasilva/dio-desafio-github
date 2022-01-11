@@ -1,5 +1,30 @@
-[Link para download do Git:](https://git-scm.com/downloads)
+Link para download do Git: https://git-scm.com/downloads
 
-# Sobre o Git
+Sobre o Git
 
-<p>O Git permite que você revise como seu projeto cresce e facilmente olhe ou restaure estados de arquivo do passado. Uma vez conectado a uma rede, o Git permite que você envie seu projeto para o GitHub ou outras alternativas, como: Bitbucket, Beanstalk ou GitLab para compartilhar e colaborar com outros desenvolvedores.</p>
+O Git permite que você revise como seu projeto cresce e facilmente olhe ou restaure estados de arquivo do passado. Uma vez conectado a uma rede, o Git permite que você envie seu projeto para o GitHub ou outras alternativas, como: Bitbucket, Beanstalk ou GitLab para compartilhar e colaborar com outros desenvolvedores.
+
+
+Dicas
+
+Esta é uma lista de referência dos comandos Git mais usados.
+
+Comandos relacionados a um repositório remoto:
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+git push ou git push origin main (Ambos atingem o mesmo objetivo neste contexto)
+
+Comandos relacionados ao fluxo de trabalho:
+git add .
+git commit -m "Uma mensagem descrevendo o que você fez para tornar este instantâneo diferente"
+
+Comandos relacionados à verificação de status ou histórico de log:
+git status
+git log
+
+A sintaxe básica do Git é programa | ação | descrição.
+
+Por exemplo,
+
+git add . é lido como git | add | . , onde o ponto representa tudo no diretório atual;
+git commit -m "message" é lido como git | commit -m | "message"; e
+git status é lido como git | status | (sem descrição).
